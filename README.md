@@ -1,3 +1,3 @@
 # dotfiles
 
-#This is my personal repository for my dot files
+# This is my personal repository for my dot files
